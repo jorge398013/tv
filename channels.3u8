@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",8NTV (1080p)
-https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/157.ts
 #EXTINF:-1 tvg-id="12VisionEncarnacion.mx",12 Visión Encarnación (1080p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder87b/playlist.m3u8
 #EXTINF:-1 tvg-id="XHSDDTDT.mx",15tv Sabinas (XHSDD-TDT) (360p)
