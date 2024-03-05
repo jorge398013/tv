@@ -7,19 +7,19 @@ http://190.149.66.90:4000/play/a00d/index.m3u8
 http://190.149.66.90:4000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus",ADN 40 (720p)
 http://190.149.66.90:4000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-group="Abierta" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",8NTV (1080p)
+#EXTINF:-1 tvg-id="Azteca" tvg-group="Abierta" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",8NTV (1080p)
 http://190.149.66.90:4000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="HBO 2",12 Visión Encarnación (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Estrellas",12 Visión Encarnación (1080p) [Not 24/7]
 http://190.149.66.90:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family",15tv Sabinas (XHSDD-TDT) (360p)
+#EXTINF:-1 tvg-id="Canal 5",15tv Sabinas (XHSDD-TDT) (360p)
 http://190.149.66.90:4000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="HBO Plus",ADN 40 (720p)
+#EXTINF:-1 tvg-id="Azteca 7",ADN 40 (720p)
 http://190.149.66.90:4000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-group="Abierta" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",8NTV (1080p)
+#EXTINF:-1 tvg-id="Nick" tvg-group="Abierta" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png",8NTV (1080p)
 http://190.149.66.90:4000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="HBO 2",12 Visión Encarnación (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Disney",12 Visión Encarnación (1080p) [Not 24/7]
 http://190.149.66.90:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family",15tv Sabinas (XHSDD-TDT) (360p)
+#EXTINF:-1 tvg-id="Nueve",15tv Sabinas (XHSDD-TDT) (360p)
 http://190.149.66.90:4000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="HBO Plus",ADN 40 (720p)
+#EXTINF:-1 tvg-id="Discovery",ADN 40 (720p)
 http://190.149.66.90:4000/play/a00e/index.m3u8
