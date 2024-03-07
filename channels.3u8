@@ -21,5 +21,5 @@ http://190.149.66.90:4000/play/a00c/index.m3u8
 http://190.149.66.90:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="Nueve",
 http://190.149.66.90:4000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="Discovery",
+#EXTINF:-1 tvg-name="Discovery",
 http://190.149.66.90:4000/play/a00e/index.m3u8
