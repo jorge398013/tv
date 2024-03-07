@@ -1,0 +1,22 @@
+<epg>
+    <programme start="2024-03-07 01:00:00" stop="2024-03-07 01:10:00">
+        <title>Programa 1</title>
+        <type>Película</type>
+    </programme>
+    <programme start="2024-03-07 01:10:00" stop="2024-03-07 01:20:00">
+        <title>Programa 2</title>
+        <type>Deportes</type>
+    </programme>
+    <programme start="2024-03-07 01:20:00" stop="2024-03-07 01:30:00">
+        <title>Programa 3</title>
+        <type>Noticias</type>
+    </programme>
+    <programme start="2024-03-07 01:30:00" stop="2024-03-07 01:40:00">
+        <title>Programa 4</title>
+        <type>Entretenimiento</type>
+    </programme>
+    <programme start="2024-03-07 01:40:00" stop="2024-03-07 01:50:00">
+        <title>Programa 5</title>
+        <type>Documental</type>
+    </programme>
+</epg>
