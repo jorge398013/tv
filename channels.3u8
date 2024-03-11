@@ -2,3 +2,12 @@
 
 #EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",Golden Múltiplex
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",Golden Premiere
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
