@@ -3,10 +3,10 @@
 #EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png",Cinecanal
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/63.ts
 
-#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png",Cinemax
+#EXTINF:-1 group-title="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png",Cinemax
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/65.ts
 
-#EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",Golden Edge
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Cine" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png",Golden Plus
